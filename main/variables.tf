@@ -3,7 +3,7 @@ variable "rg_name" {
    type = string
    default     = "sai"
 }
-  
+
 variable "location" {
    description = "Location where the resources will be created"
    type = string
